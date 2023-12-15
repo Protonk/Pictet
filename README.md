@@ -89,7 +89,7 @@ Contributions are welcome!
 
 ## Just who is we?
 
-* This project is the work of [Adam Hyland](https://adampunk.com) and [Daniel Teramato](https://www.linkedin.com/in/daniel-teramoto/), students at the Human Centered Design and Engineering department of the University of Washington.
+* This project is the work of [Adam Hyland](https://adampunk.com) and [Daniel Teramoto](https://www.linkedin.com/in/daniel-teramoto/), students at the Human Centered Design and Engineering department of the University of Washington.
 
 ## Acknowledgements
 
