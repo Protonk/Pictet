@@ -1,6 +1,6 @@
-![A lithograph of two parabolic mirrors on stands facing each other. The focus of one mirror has a basket of coals, the other kindling](/Code/Images/Pictet1844.png "1844 Apparatus")
-
 # Pictet's Experiment
+
+![A lithograph of two parabolic mirrors on stands facing each other. The focus of one mirror has a basket of coals, the other kindling](/Code/Images/Pictet1844.png "1844 Apparatus")
 
 We are students of human-computer interaction who feel that speculation is important in the classroom. Speculating, failing, and then learning from our failure is how we innovate and advance as a society and grow as people. Science classrooms are important places for students to reason and speculate about the world, but sometimes they can feel intimidating to speak up in. We wanted to design a science demonstration focused on creating space for students to speculate about the outcome without fear of being wrong. Because we are not physicists or science teachers, rather than devising a new experiment, we decided to lift one out of some obscurity in the history of thermodynamics and show that through user research this experiment was still viable for classroom learning today, more than 200 years after it was first performed: [Pictet's Experiment](https://en.wikipedia.org/wiki/Pictet%27s_experiment), which showed the reflection of radiative heat by mirrors and the **apparent** reflection of cold.
 
