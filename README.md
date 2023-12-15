@@ -1,3 +1,6 @@
+![A lithograph of two parabolic mirrors on stands facing each other. The focus of one mirror has a basket of coals, the other kindling](/Code/Images/Pictet1844.png "1844 Apparatus")
+
+# Pictet's Experiment
 We set out to answer the question "_How might we design the experience of a science demonstration to create a space for students to freely speculate about the outcome?_" To do so, we offer a demonstration of a science experiment from 1790, [Pictet's Experiment](https://en.wikipedia.org/wiki/Pictet%27s_experiment), which showed the reflection of radiative heat by mirrors and the **apparent** reflection of cold.
 
 We chose this experiment because despite a simplicity that allows it to be shown in a middle-school classroom, it can be surprising even to working physicists and students with experience with physics and heat transfer. It can accompany a discussion of blackbody radiation, visible and invisible light on the electromagnetic spectrum, or merely a discussion of what makes things hot and cold.
